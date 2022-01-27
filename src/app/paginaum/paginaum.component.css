@@ -1,0 +1,31 @@
+main{
+    background-color:  #212529;
+}
+
+body{
+        background-color:  #212529;
+}
+a{
+    color: rgb(255, 251, 251);
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.logo{
+    margin-left: 50px;
+}
+
+.nav-list{
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+button{
+    margin-right: 15px;
+}
+

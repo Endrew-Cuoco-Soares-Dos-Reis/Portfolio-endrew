@@ -1,0 +1,93 @@
+
+.imagemdefundo{
+    background-image: url("/assets/1b83dce6c2a59c92d2dfdd14df85c377.gif");
+    width: 100%;
+
+}
+
+.texto{
+    margin-left: 35.5%;
+    text-align: center;
+    width: 500px;
+    margin-top: 10px;  
+}
+
+.texto p{
+    margin-bottom: 50px;
+}
+
+
+
+.caixa{
+    text-align: center;
+    align-items: flex-start;
+    width: 53.5%;
+    display: flex;
+    background-color: #212529;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+
+.caixaesquerda img{
+    width: 550px;
+    height: 529px;
+    
+}
+
+.caixadireita{
+    color: white;
+    background-color: #212529;
+    width: 100vw;
+    height: 55vh;   
+}
+
+.caixadireita h2{
+    font-size: 25px;
+    margin-bottom: 50px;
+    font-weight: bold
+}
+
+.caixadireita h3{
+    font-size: 30px;
+    font-weight: bold
+}
+
+.caixadireita p{
+    
+    margin-bottom: 50px;
+}
+
+.caixabaixo{
+    background-color: #212529cc;
+    width: 53.55%;
+    height: 60px;
+    margin-left: 19.8vw;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.caixabaixo img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.a img{
+    margin-top: 7px;
+    width: 36px;
+   height: 36px;
+}
+
+.imagemgeral{
+    display: flex;
+    margin-left: 41%;
+}
+
+.b img{
+    margin-top: 4px;
+    width: 40px;
+   height: 40px;
+}
+
